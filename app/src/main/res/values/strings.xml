@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pay the piper</string>
+    <string name="emptystring" />
+    <string name="bt5">Rs.5</string>
+    <string name="bt2">Rs.2</string>
+    <string name="bt1">1 Rupee</string>
+    <string name="bt10">Rs.10</string>
+    <string name="button">RESET</string>
+    <string name="textView2">ENTER AMOUNT</string>
+    <string name="textView4">TOTAL</string>
+</resources>
